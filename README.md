@@ -1,12 +1,17 @@
-# MIE-UMM
+# Towards Generalized Multi-Image Editing for Unified Multimodal Models 
 
+**Pengcheng Xu | Peng Tang | Donghao Luo | Xiaobin Hu | Weichu Cui | Qingdong He | Zhennan Chen | Jiangning Zhang | Charles Ling | Boyu Wang**
 
-## Data
-
+> Western University
+> 
+> Tencent
 
 ## Benchmark
 
 
-## Models
+## Setup
+
+
+## Evaluation
 
 
