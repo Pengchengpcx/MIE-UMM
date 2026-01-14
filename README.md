@@ -16,7 +16,7 @@
 
 
 <div align='center'>
-<img src="./assets/arch.pdf" class="interpolation-image" alt="arch." height="100%" width="100%" />
+<img src="./assets/arch.png" class="interpolation-image" alt="arch." height="100%" width="100%" />
 </div>
 
 ## Benchmark
